@@ -6,4 +6,4 @@ depends:
 version: '1.0'
 author: taiki45
 name: mikutter_sad_happy
-description: Negative -> Positive
+description: Negative goes Positive
